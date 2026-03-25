@@ -25,10 +25,13 @@ This app uses Natural Language Processing (NLP) to classify text.
 **1. Clone the repository:**
 ```bash
 git clone [https://github.com/Srivalli-M12/ML-Task-Manager-1.git](https://github.com/Srivalli-M12/ML-Task-Manager-1.git)
-cd YOUR_REPOSITORY_NAME
+cd ML-Task-Manager-1
+```
 **2. Install dependencies:**
 ```bash
 pip install -r requirements.txt
+```
 **3. Run the application:**
 ```bash
 python main.py
+```
