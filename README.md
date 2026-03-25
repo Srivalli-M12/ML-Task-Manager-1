@@ -1,6 +1,4 @@
 # ML-Task-Manager-1
-# 🧠 Smart Task Management App (ML-Powered)
-
 A command-line Task Management Application built with Python. This project serves as a standard to-do list with a twist: it integrates a **Machine Learning text classification model** to automatically predict whether a new task should be marked as High, Medium, or Low priority based on its description.
 
 ## 🚀 Features
